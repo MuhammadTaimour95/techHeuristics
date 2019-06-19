@@ -68,6 +68,7 @@ class ControlledCarousel extends React.Component {
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
+        
       );
     }
   }
